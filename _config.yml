@@ -1,0 +1,6 @@
+baseurl : "."
+
+basePath: "/blog"
+
+title : "blog"
+
